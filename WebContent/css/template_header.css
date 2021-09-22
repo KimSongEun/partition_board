@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+#header {
+	height: 125px;
+	background-color: white;
+}
+
+#login {
+	float: left;
+	width: 300px;
+	height: 100%;
+}
+
+table td {
+	text-align: right;
+}
+
+#logo {
+	position: relative;
+	float: right;
+	width: 200px;
+	height: 100%;
+	/* padding-top: 35px;
+            padding-right: 5px; */
+}
+
+#logo>img {
+	position: absolute;
+	right: 5px;
+	top: 35px;
+}
